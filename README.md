@@ -26,8 +26,11 @@ Yes, everything in vs code is based on extenions. But why not? I like the idea b
 ✅ angular2-inline  
 ↪ If you use inline template you have to install this extentsion cause vs code does not support inline templates.
 
-✅ Auto Import  
-↪ When the Project will be bigger, the auto import from vs code is not as good as you think. VS Code will insert wrong paths 👀. So i recommend you to disable the vs code one and install this extension. I had no problems until now. Maybe microsoft will fix this (2019-08-20).
+~~✅ Auto Import  
+↪ When the Project will be bigger, the auto import from vs code is not as good as you think. VS Code will insert wrong paths 👀. So i recommend you to disable the vs code one and install this extension. I had no problems until now. Maybe microsoft will fix this (2019-08-20).~~
+
+Update 2019-11-12 . 
+Theres already a fix. In my case i need relative Import Parts. You can easly activate that. Just open the Settings and search for "typescript.preferences.importModuleSpecifier". Set this value to "relative". Thats it, extension no more needded!  
 
 ✅ GitLens  
 ↪ Switching branches? annoate files? other nice git features? use this extension.
