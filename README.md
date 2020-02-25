@@ -23,8 +23,11 @@ Yes, everything in vs code is based on extenions. But why not? I like the idea b
 ✅ Angular Language Service  
 ↪ Some AI features for angular.
 
-✅ angular2-inline  
+~~✅ angular2-inline  
 ↪ If you use inline template you have to install this extentsion cause vs code does not support inline templates.
+.~~
+Update: 2020-02-25 . 
+This feature is now included by Angular Language Service - Awesome
 
 ~~✅ Auto Import  
 ↪ When the Project will be bigger, the auto import from vs code is not as good as you think. VS Code will insert wrong paths 👀. So i recommend you to disable the vs code one and install this extension. I had no problems until now. Maybe microsoft will fix this (2019-08-20).~~
